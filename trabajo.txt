@@ -1,1 +1,8 @@
 proyecto1
+
+dias de la semana:
+lunes
+martes
+miercoles
+jueves
+viernes
